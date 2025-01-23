@@ -14,5 +14,6 @@ library(tidymodels)      # for the recipes package, along with the rest of tidym
 library(nycflights13)    # for flight data
 library(skimr) 
 
-s-<c(1,2,3)
+s<-c(1,2,3)
+print(s)
 ```

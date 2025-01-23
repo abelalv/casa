@@ -12,5 +12,7 @@ This is a webR-enabled code cell in a Quarto HTML document.
 library(tidymodels)      # for the recipes package, along with the rest of tidymodels
 # Helper packages
 library(nycflights13)    # for flight data
-library(skimr)  
+library(skimr) 
+
+s-<c(1,2,3)
 ```
